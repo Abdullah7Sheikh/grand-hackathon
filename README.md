@@ -1,6 +1,9 @@
-Use git clone to clone
-Use npm install 
-After this run npm run dev
-Update or create .env with firebase config and a admin pass key mainly of 32 digits
-search App.jsx for directory to update url and open admin and department manager 
-there might some issues in urls because 
+formik is use for form It helps with the three most annoying parts: Getting values in and out of form state. Validation and error messages.
+
+yup 
+Yup is a schema builder for runtime value parsing and validation. Define a schema, transform a value to match, assert the shape of an existing value, or both. Yup schema are extremely expressive and allow modeling complex, interdependent validations, or value transformation.
+
+date fns
+ it allow to get time
+
+ 
